@@ -12,3 +12,5 @@ As there is no unfied API that can support and help designers with their Neural 
 
 ## Working Prototype
 1) Arduino 
+
+An arduino library for a n input perceptron is beign designed.
